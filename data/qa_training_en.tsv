@@ -1,0 +1,66 @@
+question	answer_type
+Who is the president of France?	PERSON
+Who wrote the novel War and Peace?	PERSON
+Who discovered gravity?	PERSON
+Who directed the movie Titanic?	PERSON
+Who is the CEO of the company?	PERSON
+Who was the first man on the moon?	PERSON
+Who invented the telephone?	PERSON
+Who painted the Mona Lisa?	PERSON
+What is the name of the person who wrote the book?	PERSON
+What is the name of the scientist who discovered radium?	PERSON
+Who founded the company Microsoft?	PERSON
+Who is the author of the book?	PERSON
+Who led the expedition to the South Pole?	PERSON
+Who composed the famous symphony?	PERSON
+Where is the Eiffel Tower located?	LOCATION
+Where is the headquarters of the United Nations?	LOCATION
+Where is Mount Everest located?	LOCATION
+Where can I find the largest desert in the world?	LOCATION
+Where is the Great Wall of China situated?	LOCATION
+Where is the Amazon rainforest located?	LOCATION
+Where is the Colosseum situated?	LOCATION
+Where does the river flow into the sea?	LOCATION
+Where is the university located?	LOCATION
+What is the capital of Japan?	LOCATION
+What is the capital city of Germany?	LOCATION
+What is the largest city in the country?	LOCATION
+What is the location of the ancient temple?	LOCATION
+What is the name of the river that flows through the city?	LOCATION
+What is the name of the mountain near the border?	LOCATION
+What country is the pyramid located in?	LOCATION
+What city hosts the annual festival?	LOCATION
+When did World War II end?	DATE
+When was the internet invented?	DATE
+When did the French Revolution start?	DATE
+When was the United Nations founded?	DATE
+When did the Berlin Wall fall?	DATE
+When was the telephone invented?	DATE
+When did Ethiopia gain independence?	DATE
+When did the company start operating?	DATE
+When was the building constructed?	DATE
+What year was the school founded?	DATE
+What year did the war begin?	DATE
+What is the founding year of the university?	DATE
+What date was the treaty signed?	DATE
+What year was the bridge completed?	DATE
+Which organization regulates world trade?	ORGANIZATION
+Which company manufactures the iPhone?	ORGANIZATION
+Which university is ranked first in the world?	ORGANIZATION
+Which organization awards the Nobel Prize?	ORGANIZATION
+Which agency is responsible for space exploration in the United States?	ORGANIZATION
+Which team won the championship?	ORGANIZATION
+Which committee approved the proposal?	ORGANIZATION
+What is the name of the company that built the bridge?	ORGANIZATION
+What is the name of the university where he studied?	ORGANIZATION
+What organization published the report?	ORGANIZATION
+How many continents are there in the world?	QUANTITY
+How many people live in Addis Ababa?	QUANTITY
+How much does the average car weigh?	QUANTITY
+How many countries are members of the United Nations?	QUANTITY
+How many kilometers is the Nile River?	QUANTITY
+How many members does the committee have?	QUANTITY
+How much did the project cost?	QUANTITY
+What is the population of the city?	QUANTITY
+What is the total area of the country?	QUANTITY
+What is the height of the mountain?	QUANTITY

@@ -1,0 +1,16 @@
+id	answer_type	question_en	gold_en	question_am	gold_am
+1	LOCATION	What is the capital city of Ethiopia?	Addis Ababa	የኢትዮጵያ ዋና ከተማ ምንድን ናት?	አዲስ አበባ
+2	PERSON	Who founded Addis Ababa?	Menelik II	አዲስ አበባን ማን መሰረተ?	ዳግማዊ ምኒልክ
+3	DATE	When was Addis Ababa University established?	1950	አዲስ አበባ ዩኒቨርሲቲ መቼ ተመሰረተ?	1950
+4	LOCATION	Where is Bahir Dar located?	Lake Tana	ባህር ዳር የት ትገኛለች?	ጣና ሀይቅ
+5	LOCATION	Where does the Blue Nile River originate?	Lake Tana	አባይ ወንዝ ከየት ይመነጫል?	ጣና ሀይቅ
+6	PERSON	Who was the Prime Minister of Ethiopia from 1995 to 2012?	Meles Zenawi	ከ1995 እስከ 2012 የኢትዮጵያ ጠቅላይ ሚኒስትር ማን ነበሩ?	መለስ ዜናዊ
+7	DATE	When did Abiy Ahmed become the Prime Minister of Ethiopia?	2018	አብይ አህመድ የኢትዮጵያ ጠቅላይ ሚኒስትር የሆኑት መቼ ነው?	2018
+8	DATE	When did Abiy Ahmed win the Nobel Peace Prize?	2019	አብይ አህመድ የኖቤል የሰላም ሽልማት ያሸነፉት መቼ ነው?	2019
+9	LOCATION	Where is the Grand Ethiopian Renaissance Dam built?	Blue Nile River	ታላቁ የኢትዮጵያ ህዳሴ ግድብ የተገነባው የት ነው?	አባይ ወንዝ
+10	LOCATION	Where is Ethiopia located?	East Africa	ኢትዮጵያ የምትገኘው የት ነው?	ምስራቅ አፍሪካ
+11	DATE	When was Lucy discovered?	1974	ሉሲ የተገኘችው መቼ ነው?	1974
+12	LOCATION	Where is Fasil Ghebbi located?	Gondar	ፋሲል ግቢ የሚገኘው የት ነው?	ጎንደር
+13	PERSON	Who was the Emperor of Ethiopia until 1974?	Haile Selassie	እስከ 1974 የኢትዮጵያ ንጉሠ ነገሥት ማን ነበሩ?	ቀዳማዊ ኃይለ ሥላሴ
+14	LOCATION	Where are the Simien Mountains located?	northern Ethiopia	የሰሜን ተራሮች የሚገኙት የት ነው?	ሰሜን ኢትዮጵያ
+15	LOCATION	Where is Axum located?	northern Ethiopia	አክሱም የምትገኘው የት ነው?	ሰሜን ኢትዮጵያ

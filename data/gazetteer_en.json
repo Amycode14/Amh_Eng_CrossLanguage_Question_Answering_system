@@ -1,0 +1,14 @@
+{
+  "PERSON": [
+    "Menelik II", "Meles Zenawi", "Abiy Ahmed", "Haile Selassie", "Lucy"
+  ],
+  "LOCATION": [
+    "Addis Ababa", "Ethiopia", "Bahir Dar", "Lake Tana", "Blue Nile River",
+    "Blue Nile", "East Africa", "Gondar", "Simien Mountains", "Axum",
+    "northern Ethiopia", "Nile River"
+  ],
+  "ORGANIZATION": [
+    "Addis Ababa University", "Nobel Peace Prize", "Grand Ethiopian Renaissance Dam",
+    "United Nations", "Fasil Ghebbi"
+  ]
+}
